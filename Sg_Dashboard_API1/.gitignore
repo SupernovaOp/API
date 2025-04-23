@@ -2,4 +2,5 @@
 /target/
 
 # Ignore dev properties
-*/application-dev.properties
+src/main/resources/application-dev.properties
+
